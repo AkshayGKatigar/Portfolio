@@ -1,10 +1,6 @@
 # Akshay Katigar
 Data Analyst
 
-<p align="center">
-  <img src="assets/Ak.jpg" alt="Akshay Katigar - Data Analyst" width="900" />
-</p>
-
 Hi I’m **Akshay Katigar**, an aspiring Data Analyst with a BCA background currently pursuing a Data Analyst program at **Excelr**. I’m passionate about turning raw data into actionable business insights through clean analysis and effective visualization.  
 
 
